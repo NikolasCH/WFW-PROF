@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652295999837",
+    "firebase_url": "https://words-from-word-professor.firebaseio.com",
+    "project_id": "words-from-word-professor",
+    "storage_bucket": "words-from-word-professor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652295999837:android:862665a58a5b5e9f69d8b4",
+        "android_client_info": {
+          "package_name": "com.sayrex.wfw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652295999837-trga34fm7hgs0aoa9qgpfaq1qspeq5qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDtqDWRwN6M21T872jAcyt0GUyj6Esvhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652295999837-trga34fm7hgs0aoa9qgpfaq1qspeq5qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
