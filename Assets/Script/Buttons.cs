@@ -101,6 +101,9 @@ public class Buttons : Main {
 			if(gameObject.name=="Back")
 				LoadScene(0);	
 
+			if(gameObject.name=="Sharing")
+				SX.SendMessage("Sharing");      
+
 			if(gameObject.name=="o_letters")
 				Main.Open_Letters();
 
