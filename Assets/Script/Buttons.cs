@@ -65,17 +65,28 @@ public class Buttons : Main {
 				BonusInfo.SetActive(true);
 
 				
-			if(gameObject.name=="GoolgePLay")
+			if(gameObject.name=="Market")
 			{
+#if UNITY_IOS
+				
+		  
+				Application.OpenURL("itms-apps://itunes.apple.com/app/id823608951");
+#endif
 
-				System.Uri uri = new System.Uri("market://details?id=com.sayrex.wfw");
-				AN_Intent viewIntent = new AN_Intent(AN_Intent.ACTION_VIEW, uri);
+
+#if UNITY_ANDROID
+                System.Uri uri = new System.Uri("market://details?id=com.sayrex.wfw");
+                AN_Intent viewIntent = new AN_Intent(AN_Intent.ACTION_VIEW, uri);
 				AN_MainActivity.Instance.StartActivity(viewIntent);
+#endif
+
+
+
 			}
 
-			
 
-			if(gameObject.name=="CloseMSG"){
+
+			if (gameObject.name=="CloseMSG"){
 				iMap.MSG_1.SetActive(false);
 				iMap.MSG_2.SetActive(false);
 				iMap.MSG_3.SetActive(false);

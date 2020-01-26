@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>652295999837-rqqk8qr1g6mj80q4bifmiihvgc2d1h42.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.652295999837-rqqk8qr1g6mj80q4bifmiihvgc2d1h42</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBnJj49f3WhMI14omH-95Fu1c-nW4yOms</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652295999837</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sayrex.w2</string>
+	<key>PROJECT_ID</key>
+	<string>words-from-word-professor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>words-from-word-professor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652295999837:ios:b231703ce509a3bb69d8b4</string>
+	<key>DATABASE_URL</key>
+	<string>https://words-from-word-professor.firebaseio.com</string>
+</dict>
+</plist>

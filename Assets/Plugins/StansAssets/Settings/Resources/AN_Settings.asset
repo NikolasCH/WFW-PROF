@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c58705f215734483496dce8c227ce840, type: 3}
   m_Name: AN_Settings
   m_EditorClassIdentifier: 
-  LastVersionCode: 2019.18
-  UseUnityJarResolver: 1
-  UnityJarResolverVersion: v1.2.125.0
+  LastVersionCode: 
+  UseUnityJarResolver: 0
+  UnityJarResolverVersion: 
   ManifestManagement: 1
   LogLevel:
     Info: 1
@@ -212,5 +212,5 @@ MonoBehaviour:
     m_OriginalJson: 
     m_IsConsumable: 0
     m_SkuDetailsHashId: 0
-  Licensing: 1
+  Licensing: 0
   GooglePlayGamesAPI: 1

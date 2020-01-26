@@ -13,6 +13,7 @@ public class Main : MonoBehaviour {
 	public static string txt="w";
 	public static string word = "угадай";
 	public static string _word = "";
+	public static string AppleId = "1496515813";
 	public static int next = 0;
 	public static int [] p =  new[]{-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1};
 	public static GameObject bg;

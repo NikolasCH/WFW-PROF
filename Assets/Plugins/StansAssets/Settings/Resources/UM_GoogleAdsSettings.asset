@@ -19,10 +19,10 @@ MonoBehaviour:
     NonRewardedId: ca-app-pub-4222284856413264/8433399303
     RewardedId: ca-app-pub-4222284856413264/9746480974
   IOSIds:
-    AppId: 
-    BannerId: 
-    NonRewardedId: 
-    RewardedId: 
+    AppId: ca-app-pub-4222284856413264~5998079675
+    BannerId: ca-app-pub-4222284856413264/4684998007
+    NonRewardedId: ca-app-pub-4222284856413264/3082226005
+    RewardedId: ca-app-pub-4222284856413264/3876432920
   TestDevices: []
   Keywords: []
   TagForChildDirectedTreatment: 0
