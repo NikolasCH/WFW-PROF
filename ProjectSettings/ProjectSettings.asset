@@ -168,7 +168,8 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.sayrex.wfw2
     iPhone: com.sayrex.w2
-  buildNumber: {}
+  buildNumber:
+    iPhone: 3
   AndroidBundleVersionCode: 35
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0

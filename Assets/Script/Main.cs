@@ -541,7 +541,7 @@ public class Main : MonoBehaviour {
 	public static void onBuy (string product)
 	{
 		Debug.Log("InApp " + product);
-		GameObject.Find("SX").GetComponent<SX_InApp_Android>().Purchase(product);
+		GameObject.Find("SX").SendMessage("Purchase",product);
 	}
 
 	public static void showMoreApps ()
