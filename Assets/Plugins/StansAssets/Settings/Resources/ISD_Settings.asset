@@ -207,6 +207,28 @@ MonoBehaviour:
       BooleanValue: 1
       ChildrensIds: []
     uniqueIdKey: OF5mt4YaU0sWw9nB1q0g
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name: 
+      Type: 0
+      StringValue: instagram
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: PpGnIo8qwwbv85iHNeEd
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name: 
+      Type: 0
+      StringValue: whatsapp
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: xx1X8d0Nx8fvSKsVEcTP
   Languages: []
   ShellScripts: []
   m_buildProperties:

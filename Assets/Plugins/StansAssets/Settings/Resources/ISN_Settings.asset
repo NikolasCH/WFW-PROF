@@ -217,7 +217,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: page2_2
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -249,7 +249,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: page2_3
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -281,7 +281,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: page2_4
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -313,7 +313,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   Achievements:
   - m_identifier: CgkIh4yMlfcCEAIQAQ
     m_percentComplete: 0

@@ -15,6 +15,8 @@ public class Buttons : Main {
 
 	private GameObject BonusInfo;
 	//	private UILabel label;
+
+
 	
 	void Start () 
 	{
